@@ -2,7 +2,6 @@
 - 🔭 I'm currently working as data scientist intern at [Musixmatch](https://www.musixmatch.com/it)
 - 🌱 I’m currently learning the fantastic world of graph neural networks
 - 📫 How to reach me: <br/><a href = "mailto: michele.mancusi94@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-- ⚡ Fun fact: ...
 
 
 <p align="center">
